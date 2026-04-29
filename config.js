@@ -15,8 +15,8 @@ module.exports = {
     STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ STATUS VIEWED BY ROLEX-MD", // Custom message
     MODE: process.env.MODE || "public", // Options: private, public, inbox, groups
     TGTOKEN:process.env.TGTOKEN || "7672295852:AAG0SEMHbM1jhkpodxHspJuVT5tiAhXPPpI",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "916291099062", // Only 1 owner number here, others add to sudo numbers
-    OWNER_NAME: process.env.OWNER_NAME || "ROLEX", // Custom name
+    OWNER_NUMBER: "916291099062", // Only 1 owner number here, others add to sudo numbers
+    OWNER_NAME: "ROLEX", // Custom name
     PACK_AUTHOR: process.env.PACK_AUTHOR || "", // Custom
     PACK_NAME: process.env.PACK_NAME || "",
     PREFIX: process.env.PREFIX || ".",
@@ -28,7 +28,7 @@ module.exports = {
     ANTI_CALL_MSG: process.env.ANTI_CALL_MSG || "*📞 ᴄαℓℓ ɴσт αℓℓσωє∂ ιɴ тнιѕ ɴᴜмвєʀ уσυ ∂σɴт нανє ᴘєʀмιѕѕισɴ 📵*",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     OWNER_REACT: process.env.OWNER_REACT || "false",
-    BOT_NAME: process.env.BOT_NAME || "𓆩ု᪳𝐒𝐓𝐀𝐑𝐊-𝐌𝐃ှ᪳𓆪", // Don't change
+    BOT_NAME: "ROLEX -XMD", // Don't change
     BOT_PIC: process.env.BOT_PIC || "https://files.catbox.moe/2ka956.jpg", // Don't change
     AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
     AUTO_BIO: process.env.AUTO_BIO || "false",
